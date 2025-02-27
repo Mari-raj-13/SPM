@@ -68,6 +68,6 @@ Follow these steps to set up and run the project locally:
 
 For any queries or feedback, feel free to reach out:
 
-- 📧 **Email:** [balamuruganmbg4@gmail.com](mailto:email@gmail.com)
-- 🐙 **GitHub:** [yourusername](https://github.com/yourusername)
+- 📧 **Email:** [mariraj531@gmail.com](mailto:mariraj531@gmail.com)
+- 🐙 **GitHub:** [Mariraj](https://github.com/yourusername)
 - 📄 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
